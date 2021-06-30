@@ -1,5 +1,5 @@
 {
-  "name": "weblagence/laravel-facebook-pixel",
+  "name": "hmadb/laravel-facebook-pixel",
   "type": "library",
   "description": "Facebook Pixel integration for Laravel",
   "keywords": [
